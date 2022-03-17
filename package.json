@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches resource from URL, saves it locally, and logs what was done.",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzonieto/page-fetcher.git"
+  },
+  "author": "Gonzo Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzonieto/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/gonzonieto/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
